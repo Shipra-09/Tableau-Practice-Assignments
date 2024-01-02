@@ -31,5 +31,5 @@
 
 
 
-*Enjoy your exploration and visualization journey!* 🚀📊
+🚀📊*Enjoy your exploration and visualization journey!* 
 
