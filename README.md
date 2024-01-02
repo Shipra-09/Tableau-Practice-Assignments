@@ -16,7 +16,16 @@
 9. Exploring the creation of interactive dashboards that engage and inform.
 10. Combining multiple visualizations to convey a cohesive narrative.
 11. Discovering various ways to streamline and improve the efficiency of the visualizations.
+***
 
+### How to use:
+
+* Clone this repository onto your local machine.
+* Access the Tableau workbook (.twb or .twbx file) linked to the desired project.
+* Establish a connection between the workbook and your data source.
+* Engage with the dashboards, filters, and parameters to dynamically explore visualizations and gain valuable insights.
+
+***
 
 **Please share feedback, insights, suggest improvements (if any) and collaborate on assignments.**
 
